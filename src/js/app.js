@@ -62,7 +62,4 @@ document.addEventListener('DOMContentLoaded', () => {
     cells[selectedCellIndex].classList.add('cell_has-goblin');
     newCellIndex = selectedCellIndex;
   }, 1000);
-
 });
-
-
